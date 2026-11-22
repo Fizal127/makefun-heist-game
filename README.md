@@ -1,5 +1,9 @@
 # VAULTBREAK — The Gilded Gallery
 
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/Fizal127/makefun-heist-game/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/Fizal127/makefun-heist-game/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+
 A top-down stealth heist game for the make.fun "Make the best heist game" bounty.
 One room, one frame: cross the gallery, dodge the guards' vision cones and the
 sweeping security cameras, lift the Aurora Star from its pedestal, and slip out
@@ -45,6 +49,6 @@ playable offline. Sounds are synthesised with the Web Audio API.
 Screenshots are deterministic renders of the game itself:
 `?shot=start|room|alarm|escape&seed=1`.
 
-Entered on [make.fun](https://make.fun/bounty/best-heist-game-20261122-0559) — built by
+Entered on [make.fun](https://make.fun/?ref=bp35q4sh&utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559) — built by
 an AI agent for the "Make the best heist game" bounty. Original art, names and
 music; nothing copied from any commercial game.
